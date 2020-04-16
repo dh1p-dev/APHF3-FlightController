@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[AphelionFlightController.GTO]
+   Generated File[AphelionFlightController.GTP]
+   Generated File[AphelionFlightController.GTS]
+   Generated File[AphelionFlightController.GTL]
+   Generated File[AphelionFlightController.GBL]
+   Generated File[AphelionFlightController.GBS]
+   Generated File[AphelionFlightController.GM1]
+   Generated File[AphelionFlightController.GM13]
+   Generated File[AphelionFlightController.GM15]
+   Generated File[AphelionFlightController.GPT]
+   Generated File[AphelionFlightController.GPB]
+   Generated File[AphelionFlightController.RUL]
+   Generated File[AphelionFlightController.EXTREP]
+   Generated File[AphelionFlightController.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 09:50:28 On 14.04.2020
